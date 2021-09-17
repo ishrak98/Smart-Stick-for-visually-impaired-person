@@ -1,0 +1,5 @@
+Smart stick for visually impaired person
+
+- Arduino Uno has done the hardware part, and python, tensor-flow have done the image processing part.
+This stick has a separate part with GPS & gsm function for tracking and water sensor can sense the wet surface, 
+sonar for detecting the object and camera is for detection the traffic light.
